@@ -17,14 +17,18 @@
         android:text="@string/pruchase_what"
         android:typeface="serif"
         android:textSize="18sp"
-        android:textColor="@color/black"/>
+        android:textColor="@color/black"
+        android:shadowColor="@color/text_shadow"
+        android:shadowDx="1"
+        android:shadowDy="1"
+        android:shadowRadius="2"/>
 
 
 
     <androidx.recyclerview.widget.RecyclerView
     android:layout_width="wrap_content"
     android:layout_height="match_parent"
-    android:layout_below="@+id/cardSlider"
+    android:layout_below="@+id/txtSample"
     android:layout_centerHorizontal="true"
     />
 
