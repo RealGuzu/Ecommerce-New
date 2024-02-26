@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HelloSummer</string>
+    <string name="empire1">EMPIRE</string>
+    <string name="welcome_to">Welcome To</string>
+    <string name="btnEnter">Enter</string>
+    <string name="pruchase_what">What do you wish to purchase toaday?</string>
+    <string name="text_card">Todays Top Picks</string>
+</resources>
