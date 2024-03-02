@@ -11,6 +11,7 @@ import android.view.View;
 import com.denzcoskun.imageslider.ImageSlider;
 import com.denzcoskun.imageslider.constants.ScaleTypes;
 import com.denzcoskun.imageslider.models.SlideModel;
+import com.example.hellosummer.databinding.ActivityMainBinding;
 
 import java.util.ArrayList;
 
